@@ -1,4 +1,4 @@
-export default function edit(){
+export default function Edit(){
   return(
     <div className="editor-page">
       <div className="container page">

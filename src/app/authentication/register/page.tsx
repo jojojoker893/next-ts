@@ -1,4 +1,4 @@
-export default function register(){
+export default function Register(){
   return (
     <div className="auth-page">
       <div className="container page">
